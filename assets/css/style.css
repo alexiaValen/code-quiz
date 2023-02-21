@@ -1,0 +1,13 @@
+#wrapper{
+    text-align: center;
+}
+
+ul{
+    margin: 20px;
+    text-align: left;
+    list-style: auto;
+}
+
+.highscoreDiv{
+    justify-content: space-between;
+}
